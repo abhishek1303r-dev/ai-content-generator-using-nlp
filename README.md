@@ -1,4 +1,4 @@
-# ai-content-generator-using-nlp
+# AI-content-generator-using-nlp
 AI Content Generator Using NLP and SVM
 
 1. Overview
